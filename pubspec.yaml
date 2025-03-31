@@ -1,0 +1,12 @@
+name: dartConsole
+description: A simple Dart project to fetch data from an API.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'  # Adjust this based on your Dart SDK version
+
+dependencies:
+  http: ^0.13.6  # This ensures you have the HTTP package
+
+dev_dependencies:
+  lints: ^2.0.0
